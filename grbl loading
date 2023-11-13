@@ -1,0 +1,4 @@
+I am having problems uploading GRBL file to Arduino uno when the CNC shield is attached.  The file uploads without problems when the shield is not attached.
+I'm using Arduino 1.8.19. I tried with the latest version Arduino 2.2.1 without success. The error massage I get is     AURDUDE: Stk500_getsync() 
+
+Any help would be greatly appreciated. 
